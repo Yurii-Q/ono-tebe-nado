@@ -18,7 +18,8 @@
 
 .header__link-list-item {
   list-style-type: circle;
-  margin: 0 16px 0 8px;
+  margin: 0 16px 0 16px;
+  padding-left: 8px;
 }
 
 .header__link-list-item_no-bullit {
@@ -46,6 +47,7 @@
   font-size: 18px;
   line-height: 24px;
   font-style: normal;
+  margin-top: 5px;
 }
 
 .cover {
@@ -115,8 +117,8 @@
   line-height: 28px;
   font-weight: normal;
   align-self: center;
-  word-spacing: 22px;
-  padding-left: 20px;
+  word-spacing: 20px;
+  padding-left: 28px;
 }
 
 .bet-button {
