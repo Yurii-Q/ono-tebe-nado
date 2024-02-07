@@ -18,8 +18,8 @@
 
 .header__link-list-item {
   list-style-type: circle;
-  margin: 0 16px 0 16px;
-  padding-left: 8px;
+  margin: 0 15px 0 10px;
+  padding: 0 5px 0; 
 }
 
 .header__link-list-item_no-bullit {
@@ -29,6 +29,7 @@
 
 .header__link_active {
   text-decoration: none;
+  padding-left: 0;
 }
 
 .header__logo {
@@ -42,12 +43,15 @@
   height: 100%;
 }
 
+.header__address {
+  margin-top: 5px;
+}
+
 .address {
   width: 240px;
   font-size: 18px;
   line-height: 24px;
-  font-style: normal;
-  margin-top: 5px;
+  font-style: normal;  
 }
 
 .cover {
