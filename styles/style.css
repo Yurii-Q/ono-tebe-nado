@@ -63,7 +63,7 @@
 }
 
 .cover {
-  background: url(/images/cover.jpg);
+  background: url(../images/cover.jpg);
   background-size: cover;
   background-position: -135px;
   color: #fff;
@@ -160,15 +160,15 @@
 }
 
 .card-type-film {
-  background: url(/images/card-lot-01.jpg);
+  background: url(../images/card-lot-01.jpg);
 }
 
 .card-type-book {
-  background: url(/images/card-lot-02.jpg);
+  background: url(../images/card-lot-02.jpg);
 }
 
 .card-type-picture {
-  background: url(/images/card-lot-03.jpg);
+  background: url(../images/card-lot-03.jpg);
 }
 
 .card {
