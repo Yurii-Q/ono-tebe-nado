@@ -116,6 +116,7 @@
   font-weight: normal;
   align-self: center;
   word-spacing: 22px;
+  padding-left: 28px;
 }
 
 .bet-button {
@@ -142,6 +143,18 @@
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 25px;
+}
+
+.card-type-film {
+  background: url(/images/card-lot-01.jpg);
+}
+
+.card-type-book {
+  background: url(/images/card-lot-02.jpg);
+}
+
+.card-type-picture {
+  background: url(/images/card-lot-03.jpg);
 }
 
 .card {
@@ -176,18 +189,6 @@
   z-index: 1;
   font-size: 20px;
   line-height: 24px;
-}
-
-.card-type-film {
-  background: url(/images/card-lot-01.jpg);
-}
-
-.card-type-book {
-  background: url(/images/card-lot-02.jpg);
-}
-
-.card-type-picture {
-  background: url(/images/card-lot-03.jpg);
 }
 
 .lots__look-more-link {
