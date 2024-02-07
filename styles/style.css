@@ -116,7 +116,7 @@
   font-weight: normal;
   align-self: center;
   word-spacing: 22px;
-  padding-left: 28px;
+  padding-left: 20px;
 }
 
 .bet-button {
@@ -203,7 +203,7 @@
   display: flex;
   justify-content: space-between;
   gap: 72px;
-  margin: 0 24px 180px;
+  margin: 0 24px 185px;
 }
 
 .about__logo {
@@ -225,7 +225,7 @@
 }
 
 .about__description {
-  margin: 133px auto auto auto;
+  margin-top: 135px;
 }
 
 .about__title {
@@ -252,6 +252,7 @@
 }
 
 .footer__menu-list {
+  font-size: 18px;
   text-align: center;
 }
 
